@@ -9,7 +9,7 @@ final String text;
 Widget build(context){
   return Text(
               text,
-            style: const TextStyle(
+              style: const TextStyle(
               color: Colors.amberAccent,
               fontSize: 30),
             );
